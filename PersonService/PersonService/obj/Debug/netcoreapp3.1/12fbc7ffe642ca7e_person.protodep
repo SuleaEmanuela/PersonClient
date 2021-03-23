@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1\Protos/Person.cs \
+obj\Debug\netcoreapp3.1\Protos/PersonGrpc.cs: C:/Users/emasu/.nuget/packages/grpc.tools/2.36.4/build/native/include/google/protobuf/empty.proto\
+ Protos/person.proto
